@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Colorear</string>
+    <string name="texto_en_framelayout2">Texto en framelayout2</string>
+    <string name="texto_en_framelayout1">Texto en framelayout1</string>
 </resources>
